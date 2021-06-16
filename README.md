@@ -11,8 +11,6 @@
   u can also just go to releases and get any version of the website u want ex: old,new,etc. Enjoy!</p>
   
   <h1>The website</h1>
-  <p> the website looks like dis(yes i took the pics on ipad )</p>
-  <p>make sure u got a good look</p>
   <p>more things will be added to it so dont think that will only be it</p>
   <p> ill try to make it a full website lol</p>
   <p> u can also download the website here:</p> (https://github.com/Skai-2012/website-test-2/files/6585136/website-test-2-main.3.zip)
